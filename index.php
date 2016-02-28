@@ -8,6 +8,12 @@
   <script src="vendor/twbs/bootstrap/dist/js/bootstrap.min.js"></script>
 </head>
 <body>
-  <h1>Hello World!</h1>
+  <div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>Hello World!</h1>
+        </div>
+    </div>
+  </div>
 </body>
 </html>
